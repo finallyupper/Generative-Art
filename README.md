@@ -18,5 +18,7 @@ for improving the performance of image-related models. Through StableDiffusion 
 Object-detection in order to check how useful these generated images 
 are
 
+
+* notice :  File sd/stable-diffusion-webui/models/Lora/. models were deleted because of storage problem. (replaced to txt file). Also, the reference of models are all from https://civitai.com/
 - Soyeon Kim, Yejin Kim, Yoojin Oh (Ewha Womans University, Dept of AI)
 - contact : mydianaoh@ewhain.net
